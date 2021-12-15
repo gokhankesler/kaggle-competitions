@@ -1,0 +1,52 @@
+fileName                                   date                 description                                     status    publicScore  privateScore  
+-----------------------------------------  -------------------  ----------------------------------------------  --------  -----------  ------------  
+submission_2021-12-12T09_07_39.112474.csv  2021-12-12 09:08:06  This is my submission.                          complete  0.29677      None          
+submission_2021-12-12T09_03_21.853891.csv  2021-12-12 09:03:50  This is my submission.                          complete  0.17181      None          
+submission_2021-12-12T111341.902910.csv    2021-12-12 08:13:53  This is my submission.                          complete  0.19779      None          
+submission_2021-12-12T111119.171813.csv    2021-12-12 08:11:45  This is my submission.                          complete  0.20618      None          
+submission_2021-12-09T164017.988372.csv    2021-12-09 13:50:55  This is my submission on                        complete  0.12429      None          
+submission_2021-12-09T164017.988372.csv    2021-12-09 13:49:33  This is my submission on                        complete  0.12429      None          
+submission_2021-12-09T164017.988372.csv    2021-12-09 13:49:05  This is my submission on                        complete  0.12429      None          
+submission_2021-12-09T164017.988372.csv    2021-12-09 13:43:18  This is my submission on                        complete  0.12429      None          
+submission_2021-12-09T164017.988372.csv    2021-12-09 13:42:30  This is my submission on                        complete  0.12429      None          
+submission_2021-12-09T164017.988372.csv    2021-12-09 13:40:32  This is my submission.                          complete  0.12429      None          
+submission_2021-12-09T163936.600660.csv    2021-12-09 13:39:43  This is my submission.                          error     None         None          
+submission_3.csv                           2021-12-09 10:44:59  This is my submission.                          complete  0.40613      None          
+deneme.csv                                 2021-12-09 10:44:41  This is my submission.                          error     None         None          
+submission.csv                             2021-12-09 10:00:19  Test                                            complete  0.40613      None          
+submission.csv                             2021-12-09 09:59:38  This is my submission                           complete  0.40613      None          
+submission.csv                             2021-12-09 08:35:48  My submission message                           complete  0.40613      None          
+Book1.csv                                  2021-05-15 19:42:41  None                                            error     None         None          
+submission.csv                             2021-05-15 19:35:56  None                                            error     None         None          
+submission.csv                             2021-05-06 09:26:44  None                                            complete  0.12401      None          
+result-with-best.csv                       2021-05-06 06:21:11  None                                            complete  0.00044      None          
+submission_final.csv                       2021-05-06 06:18:43  None                                            complete  0.00044      None          
+submission.csv                             2021-05-06 06:16:38  None                                            complete  0.14216      None          
+submission.csv                             2021-05-06 06:10:13  None                                            complete  0.15992      None          
+submission.csv                             2021-05-05 21:00:12  None                                            complete  0.16817      None          
+submission.csv                             2021-05-05 20:58:59  None                                            complete  0.20439      None          
+submission.csv                             2021-05-05 19:59:43  ElasticNet(alpha=1,l1_ratio=0.5,max_iter=1000)  complete  0.20893      None          
+submission.csv                             2021-05-05 16:36:03  None                                            complete  0.19334      None          
+submission.csv                             2021-05-05 16:14:47  None                                            complete  0.33777      None          
+submission.csv                             2021-05-05 15:47:09  another one                                     complete  0.48187      None          
+submission.csv                             2021-05-05 15:45:42  Another Try                                     error     None         None          
+Submission.csv                             2021-05-05 15:42:15  Another Try                                     error     None         None          
+sample_submission-3.csv                    2019-01-15 19:11:23  None                                            complete  0.27506      None          
+sample_submission-3.csv                    2019-01-13 15:41:04  None                                            complete  0.40890      None          
+sample_submission-2.csv                    2019-01-12 17:25:19  None                                            complete  0.16138      None          
+sample_submission.csv                      2019-01-04 17:30:46  None                                            complete  0.47066      None          
+sample_submission.csv                      2019-01-04 17:27:37  None                                            complete  0.48671      None          
+sample_submission-13.csv                   2019-01-02 00:36:22  None                                            complete  0.17182      None          
+sample_submission-12.csv                   2019-01-01 21:29:03  None                                            complete  0.20357      None          
+sample_submission-12.csv                   2019-01-01 20:40:07  None                                            complete  0.49158      None          
+sample_submission-12.csv                   2019-01-01 20:38:19  None                                            complete  0.16468      None          
+sample_submission-11.csv                   2019-01-01 20:33:38  None                                            complete  0.49802      None          
+sample_submission-5.csv                    2019-01-01 17:39:02  None                                            complete  0.46217      None          
+sample_submission-5.csv                    2019-01-01 17:38:08  None                                            complete  0.65042      None          
+sample_submission-5.csv                    2019-01-01 17:36:52  None                                            complete  12.01789     None          
+sample_submission-5.csv                    2019-01-01 17:32:11  None                                            complete  1.15958      None          
+sample_submission-5.csv                    2019-01-01 17:28:37  None                                            complete  0.51618      None          
+sample_submission-4.csv                    2019-01-01 16:31:09  None                                            complete  0.64812      None          
+sample_submission-34.csv                   2018-12-31 05:00:58  None                                            complete  0.16468      None          
+sample_submission-3.csv                    2018-12-31 04:59:54  None                                            complete  0.16468      None          
+sample_submission-3.csv                    2018-12-31 04:58:30  None                                            complete  0.16468      None          
